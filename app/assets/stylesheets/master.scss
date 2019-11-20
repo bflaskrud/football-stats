@@ -1,1 +1,12 @@
 @import "bootstrap";
+
+body {
+  background: image_url('player.png');
+  font-family: 'Permanent Marker', cursive;
+  background-position: center top;
+}
+
+h1 {
+  color: red;
+  padding: 20px;
+}
