@@ -73,6 +73,7 @@ end
 
 gem "figaro"
 
+gem 'sports_data_api'
 
 
 
